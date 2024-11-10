@@ -1,0 +1,81 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "image": "https://i.ibb.co/2NfmG9j/the-silent-patient.png",
+      "review": "A gripping psychological thriller that delves deep into the complexity of the human mind. The narrative is brilliantly crafted, weaving together past and present to unveil the truth behind a decades-old mystery. Alex Michaelides proves once again his mastery in creating suspenseful, deeply immersive stories.",
+      "totalPages": 336,
+      "rating": 4.5,
+      "category": "Thriller",
+      "tags": ["Suspense", "Psychological", "Crime"],
+      "publisher": "Celadon Books",
+      "yearOfPublishing": 2019
+    },
+    {
+      "bookId": 2,
+      "bookName": "Where the Crawdads Sing",
+      "author": "Delia Owens",
+      "image": "https://i.ibb.co/7vJzYHp/where-sings.png",
+      "review": "An exquisite ode to the natural world, a heartbreaking coming-of-age story, and a surprising tale of possible murder. Owens reminds us that we are forever shaped by the children we once were, and that we are all subject to the beautiful and violent secrets that nature keeps.",
+      "totalPages": 384,
+      "rating": 4.9,
+      "category": "Fiction",
+      "tags": ["Nature", "Mystery", "Drama"],
+      "publisher": "G.P. Putnam's Sons",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": 3,
+      "bookName": "Project Hail Mary",
+      "author": "Andy Weir",
+      "image": "https://i.ibb.co/Xt9pkLG/project-hail-mary.png",
+      "review": "A thrilling adventure of a lone astronaut with the fate of humanity in his hands. Andy Weir delivers a story full of humor, science, and the enduring spirit of survival. The technical details are impeccably researched, making the improbable seem entirely plausible and gripping.",
+      "totalPages": 496,
+      "rating": 4.6,
+      "category": "Science Fiction",
+      "tags": ["Space", "Survival", "Adventure"],
+      "publisher": "Ballantine Books",
+      "yearOfPublishing": 2021
+    },
+    {
+      "bookId": 4,
+      "bookName": "Educated",
+      "author": "Tara Westover",
+      "image": "https://i.ibb.co/54HNdrd/educated.png",
+      "review": "An unforgettable memoir about a young girl who, kept out of school, leaves her survivalist family and goes on to earn a PhD from Cambridge University. A testament to the struggle for self-invention and the determination to rewrite one's own story.",
+      "totalPages": 352,
+      "rating": 4.7,
+      "category": "Memoir",
+      "tags": ["Inspiring", "Educational", "Drama"],
+      "publisher": "Random House",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": 5,
+      "bookName": "The Night Circus",
+      "author": "Erin Morgenstern",
+      "image": "https://i.ibb.co/4pd2RQy/night-circus.png",
+      "review": "A spellbinding love story set within a fantastical circus that arrives without warning. Morgenstern crafts a mesmerizing world filled with magic, mystery, and a competition that blurs the lines between reality and illusion. 'The Night Circus' is a celebration of the wonders of imagination.",
+      "totalPages": 400,
+      "rating": 4.4,
+      "category": "Fantasy",
+      "tags": ["Magic", "Romance", "Mystery"],
+      "publisher": "Doubleday",
+      "yearOfPublishing": 2011
+    },
+    {
+      "bookId": 6,
+      "bookName": "Becoming",
+      "author": "Michelle Obama",
+      "image": "https://i.ibb.co/QjGsShy/becoming.png",
+      "review": "An intimate, powerful, and inspiring memoir by the former First Lady of the United States. Michelle Obama invites readers into her world, chronicling the experiences that have shaped her—from her childhood on the South Side of Chicago to her years as an executive balancing the demands of motherhood and work.",
+      "totalPages": 448,
+      "rating": 4.8,
+      "category": "Biography",
+      "tags": ["Inspiring", "Political", "Personal"],
+      "publisher": "Crown",
+      "yearOfPublishing": 2018
+    }
+  ]
+  
